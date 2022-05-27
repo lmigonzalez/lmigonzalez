@@ -10,9 +10,9 @@ My name is Luis. I'm a Full Stack Web Developer based in Miami, Fl. Since I can 
 
 👤  [Linkedin](https://www.linkedin.com/in/lmigonzalezs/)
 
- 📝 [Resume](https://www.example.com)
+ 📝 [Resume](https://docs.google.com/document/d/1mnZPB6Qfl4uaNQeSTo_G3aDQ3JVjM-tS/edit?usp=sharing&ouid=100938195343235588682&rtpof=true&sd=true)
 
- ✉️ [Email](lmigonzalezs@gmail.com)
+ ✉️ lmigonzalezs@gmail.com
 
 
  My inbox is always open. So send me an email, and I'll get back to you asap.
