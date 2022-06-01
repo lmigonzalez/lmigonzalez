@@ -10,7 +10,6 @@ My name is Luis. I'm a Full Stack Web Developer based in Miami, Fl. Since I can 
 
 👤  [Linkedin](https://www.linkedin.com/in/lmigonzalezs/)
 
- 📝 [Resume](https://docs.google.com/document/d/1mnZPB6Qfl4uaNQeSTo_G3aDQ3JVjM-tS/edit?usp=sharing&ouid=100938195343235588682&rtpof=true&sd=true)
 
  ✉️ lmigonzalezs@gmail.com
 
