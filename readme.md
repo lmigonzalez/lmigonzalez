@@ -1,6 +1,6 @@
 #Hi there 👋🏼
 
-My name is Luis. I'm a Full Stack Web Developer based in Miami, Fl. Since I can remember, I have been very passionate about technology; therefore, doing code is more than a profession is a lifestyle. ⚙️
+My name is Luis. I'm a Full Stack Web Developer based in Miami, Fl. Since I can remember, I have been very passionate about technology; therefore, doing code is more than a profession it is a lifestyle. ⚙️
 
 ###Where to find me:
 
